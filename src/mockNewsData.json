@@ -1,0 +1,59 @@
+{
+    "meta": {
+      "found": 15041716,
+      "returned": 3,
+      "limit": 3,
+      "page": 1
+    },
+    "data": [
+      {
+        "uuid": "cf7a00a1-8448-4ad8-be4e-07e8ce8a3374",
+        "title": "HD Hyundai Heavy begins project to build 4 warships for Peruvian Navy",
+        "description": "SEOUL, Jan. 12 (Yonhap) -- HD Hyundai Heavy Industries Co., a major South Korean shipbuild...",
+        "keywords": "",
+        "snippet": "SEOUL, Jan. 12 (Yonhap) -- HD Hyundai Heavy Industries Co., a major South Korean shipbuilder, said Sunday it has officially begun its joint project with Peru's ...",
+        "url": "https://en.yna.co.kr/view/AEN20250112002100320?section=news&input=rss",
+        "image_url": "https://img8.yna.co.kr/etc/inner/EN/2025/01/12/AEN20250112002100320_01_i_P4.jpg",
+        "language": "en",
+        "published_at": "2025-01-12T14:53:49.000000Z",
+        "source": "yna.co.kr",
+        "categories": [
+          "general"
+        ],
+        "relevance_score": null
+      },
+      {
+        "uuid": "b760c829-c6ca-42f2-b402-8973eb355cf4",
+        "title": "If you're worried about The Witcher 4 feeling too different from its predecessor, don't worry, because a lot more staff from the third game are still at CD Projekt Red than you might have feared",
+        "description": "Video game developers change staff pretty often, but one of CD Projekt Red's CEOs has shared that a lot of The Witcher 3's development staff are still there.",
+        "keywords": "",
+        "snippet": "Video game developers change staff pretty often, but one of CD Projekt Red's CEOs has shared that a lot of The Witcher 3's development staff are still there.\n\nI...",
+        "url": "https://www.vg247.com/the-witcher-4-has-100-witcher-3-staff-on-it",
+        "image_url": "https://assetsio.gnwcdn.com/the-witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "language": "en",
+        "published_at": "2025-01-12T14:48:06.000000Z",
+        "source": "vg247.com",
+        "categories": [
+          "tech"
+        ],
+        "relevance_score": null
+      },
+      {
+        "uuid": "eca4a715-aa7c-4a87-9dbb-f37c228ef901",
+        "title": "MKE County: United Community Center Awarded Drug Company Money For Addiction Treatment",
+        "description": "Nonprofit will use state grant for residential substance abuse facility for men.",
+        "keywords": "",
+        "snippet": "Nonprofit will use state grant for residential substance abuse facility for men.\n\nGet a daily rundown of the top stories on Urban Milwaukee\n\nMilwaukee’s Unite...",
+        "url": "https://urbanmilwaukee.com/2025/01/12/mke-county-united-community-center-awarded-drug-company-money-for-addiction-treatment/",
+        "image_url": "https://urbanmilwaukee.com/wp-content/uploads/2024/08/IMG_0285-1024x683.jpg",
+        "language": "en",
+        "published_at": "2025-01-12T14:43:41.000000Z",
+        "source": "urbanmilwaukee.com",
+        "categories": [
+          "general"
+        ],
+        "relevance_score": null
+      }
+    ]
+  }
+  
